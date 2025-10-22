@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\11-AbstractClassPolymorphismForEach\11-AbstractClassPolymorphismForEach\obj\Debug\net8.0\11-AbstractClassPolymorphismForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\11-AbstractClassPolymorphismForEach\11-AbstractClassPolymorphismForEach\obj\Debug\net8.0\11-AbstractClassPolymorphismForEach.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\11-AbstractClassPolymorphismForEach\11-AbstractClassPolymorphismForEach\obj\Debug\net8.0\11-AbstractClassPolymorphismForEach.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\11-AbstractClassPolymorphismForEach\11-AbstractClassPolymorphismForEach\obj\Debug\net8.0\11-AbstractClassPolymorphismForEach.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\11-AbstractClassPolymorphismForEach\11-AbstractClassPolymorphismForEach\obj\Debug\net8.0\11-AbstractClassPolymorphismForEach.sourcelink.json
