@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\12-interfaceabstraction\\12-interfaceabstraction\\additional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA81A280-E47B-4754-A620-8CC232C174BD}|12-InterfaceAbstraction.csproj|solutionrelative:additional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\ICalculation.cs",
+              "RelativeDocumentMoniker": "ICalculation.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\ICalculation.cs",
+              "RelativeToolTip": "ICalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:13:48.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Additional.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Additional.cs",
+              "RelativeDocumentMoniker": "Additional.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Additional.cs",
+              "RelativeToolTip": "Additional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:33:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Division.cs",
+              "RelativeToolTip": "Division.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:32:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Multiplication.cs",
+              "RelativeDocumentMoniker": "Multiplication.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Multiplication.cs",
+              "RelativeToolTip": "Multiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:31:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subtraction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Subtraction.cs",
+              "RelativeDocumentMoniker": "Subtraction.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Subtraction.cs",
+              "RelativeToolTip": "Subtraction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:31:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculation.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Calculation.cs",
+              "RelativeToolTip": "Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:13:10.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\12-InterfaceAbstraction\\12-InterfaceAbstraction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:10:55.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
