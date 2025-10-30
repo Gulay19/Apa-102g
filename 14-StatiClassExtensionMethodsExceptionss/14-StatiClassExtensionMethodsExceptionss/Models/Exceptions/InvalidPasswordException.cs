@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _14_StatiClassExtensionMethodsExceptionss.Models.Exceptions
+{
+    internal class InvalidPasswordException : Exception
+    {
+        public InvalidPasswordException()
+            : base("Password is invalid.")
+        {
+        }
+
+        public InvalidPasswordException(string message)
+            : base(message)
+        {
+        }
+    }
+}

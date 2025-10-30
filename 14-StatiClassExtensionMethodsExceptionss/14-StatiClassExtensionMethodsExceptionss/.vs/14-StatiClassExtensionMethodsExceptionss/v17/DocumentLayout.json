@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\customs\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:customs\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\models\\exceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:models\\exceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\customs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:customs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\models\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:models\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\models\\exceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:models\\exceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\models\\exceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:models\\exceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\apa-102g\\14-staticlassextensionmethodsexceptionss\\14-staticlassextensionmethodsexceptionss\\models\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6B5A92-E965-491B-BA4D-5CA66C327371}|14-StatiClassExtensionMethodsExceptionss.csproj|solutionrelative:models\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountLockedException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\AccountLockedException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\AccountLockedException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\AccountLockedException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\AccountLockedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:19:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncorrectPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\IncorrectPasswordException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\IncorrectPasswordException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\IncorrectPasswordException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\IncorrectPasswordException.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:11:08.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:10:23.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\InvalidPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:09:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Customs\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "Customs\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Customs\\LoginSystem.cs",
+              "RelativeToolTip": "Customs\\LoginSystem.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:12:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Customs\\User.cs",
+              "RelativeDocumentMoniker": "Customs\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Customs\\User.cs",
+              "RelativeToolTip": "Customs\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T18:09:11.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\InvalidUsernameException.cs",
+              "RelativeDocumentMoniker": "Models\\Exceptions\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Models\\Exceptions\\InvalidUsernameException.cs",
+              "RelativeToolTip": "Models\\Exceptions\\InvalidUsernameException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:48:20.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\Apa-102g\\14-StatiClassExtensionMethodsExceptionss\\14-StatiClassExtensionMethodsExceptionss\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADgvwgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:46:30.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

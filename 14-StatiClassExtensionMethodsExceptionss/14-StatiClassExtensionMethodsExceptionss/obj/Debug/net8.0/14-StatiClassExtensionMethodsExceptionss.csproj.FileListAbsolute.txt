@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\bin\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.exe
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\bin\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.deps.json
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\bin\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\bin\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.dll
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\bin\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.pdb
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.sourcelink.json
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.dll
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\refint\14-StatiClassExtensionMethodsExceptionss.dll
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.pdb
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\14-StatiClassExtensionMethodsExceptionss.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\Apa-102g\14-StatiClassExtensionMethodsExceptionss\14-StatiClassExtensionMethodsExceptionss\obj\Debug\net8.0\ref\14-StatiClassExtensionMethodsExceptionss.dll
